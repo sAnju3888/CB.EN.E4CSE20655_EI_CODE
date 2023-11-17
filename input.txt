@@ -1,0 +1,14 @@
+1) Grid Size(x,y)
+2) Starting Position(sx,sy,Direction)
+3) Commands to Move 
+4) Total No of Obstacles 
+5) obstacles1 x,y co-ordinates
+
+
+10 10  
+0 0 N
+M M R M L M
+2
+2 2 
+3 5
+
